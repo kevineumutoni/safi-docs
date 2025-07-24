@@ -166,7 +166,7 @@ Technical users: Integration, customization, and developer resources.
 
 ## Sample Visual
 
-![Product Workflow Diagram](docs/assets/workflow-diagram.png)
+![Product Workflow Diagram](docs/assets/app-screenshots.png)
 
 ---
 
