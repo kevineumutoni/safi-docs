@@ -181,7 +181,7 @@ The AI Agent is your smart assistant for:
 - [Brand Designs (Figma)](https://www.figma.com/design/neV9t33HSy5WE2IHlVgwNH/Big_Minds-Design?node-id=424-128&p=f&t=IB79oess1v2oQCRu-0)
 - [Admin dashboard (Figma)](https://www.figma.com/design/aS7x1NNWoTxKNRX7Oj2K0G/Admin-Safi?node-id=0-1&p=f&t=rEuVmzaAGaTkMwlM-0)
 - ![App Screenshot](assets/app-screenshots.png)
-- [![User Flow](assets/user_flow.png)](https://www.figma.com/design/neV9t33HSy5WE2IHlVgwNH/Big_Minds-Design?node-id=424-128&p=f&t=IB79oess1v2oQCRu-0)
+- [![Admin dashboard ](assets/brand.png)](https://www.figma.com/design/neV9t33HSy5WE2IHlVgwNH/Big_Minds-Design?node-id=424-128&p=f&t=IB79oess1v2oQCRu-0)
 
 ---
 
