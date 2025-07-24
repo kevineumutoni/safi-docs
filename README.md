@@ -23,9 +23,10 @@ Welcome to the documentation for **[Safi Greens]**. This guide helps both techni
 
 ## Getting Started
 
-> **Who is this for?**  
-> Non-technical users: Basic product usage and setup.  
-> Technical users: Integration, customization, and developer resources.
+**Who is this for?**
+
+Non-technical users: Basic product usage and setup.
+Technical users: Integration, customization, and developer resources.
 
 - **Step-by-step setup instructions**
 - Links to video tutorials and screenshots
