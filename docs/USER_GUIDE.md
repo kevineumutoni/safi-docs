@@ -17,7 +17,7 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 - Choose a password and confirm registration.
 - Add your shop details (location, produce type).
 <p align="center">
-  <img src="assets/oinn.png" alt="Vendor Add Product" width="350"/>
+  <img src="assets/oinn.png" alt="Vendor login" width="350"/>
 </p>
 
 ### 2. List Your Fresh Produce
@@ -37,6 +37,10 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 - Accept and prepare orders for delivery.
 - Mark orders as completed when done.
 
+<p align="center">
+  <img src="assets/scr.png" alt="Vendor manage orders" width="350"/>
+</p>
+
 ### 4. Get Paid
 
 - Receive payments securely via MPesa.
@@ -55,6 +59,10 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 
 - Create an account using your phone number.
 - Browse fresh vegetables and fruits from local Mama Mboga vendors.
+
+<p align="center">
+  <img src="assets/oinn.png" alt="Vendor login" width="350"/>
+</p>
 
 ### 2. Place an Order
 
