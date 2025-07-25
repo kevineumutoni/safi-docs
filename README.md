@@ -57,10 +57,8 @@ Safi Greens is an online platform and mobile-friendly app that helps local veget
 
 ## 📸 See How It Works
 
-<p align="center">
-  <img src="assets/app-screenshots.png" alt="App Screenshot" width="300"/>
-  <img src="assets/dash.png" alt="Dashboard Screenshot" width="300"/>
-</p>
+![App Screenshot](assets/app-screenshots.png)
+![Dashboard Screenshot](assets/dash.png)
 
 ---
 
