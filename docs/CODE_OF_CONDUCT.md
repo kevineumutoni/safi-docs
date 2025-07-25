@@ -44,8 +44,4 @@ All reports are confidential. We will listen and take action.
 
 ---
 
-![Community Support](assets/comm.png)
-
----
-
 **Thank you for helping us keep Safi Greens welcoming and positive for everyone!** 🌍🫶
