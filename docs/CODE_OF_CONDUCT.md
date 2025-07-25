@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/assets/comm-pro.png" alt="Green Community Banner" width="600"/>
-</p>
+![Green Community Banner](docs/assets/comm-pro.png)
 
 # 🍃 Safi Greens Community Code of Conduct
 
@@ -46,9 +44,7 @@ All reports are confidential. We will listen and take action.
 
 ---
 
-<p align="center">
-  <img src="docs/assets/comm-pro.png" alt="Community Support" width="300"/>
-</p>
+![Community Support](docs/assets/comm-pro.png)
 
 ---
 
