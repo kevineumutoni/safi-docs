@@ -25,7 +25,7 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 - Enter the name, price, and quantity.
 
 <p align="center">
-  <img src="docs/assets/vendor-pro.png" alt="Vendor Add Product" width="350"/>
+  <img src="assets/vendor-pro.png" alt="Vendor Add Product" width="350"/>
 </p>
 
 ### 3. Manage Orders
@@ -60,7 +60,7 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 - Confirm your order and pay with MPesa.
 
 <p align="center">
-  <img src="docs/assets/custo-pro.png" alt="Customer Order Example" width="350"/>
+  <img src="assets/custo-pro.png" alt="Customer Order Example" width="350"/>
 </p>
 
 ### 3. Track Your Order
@@ -95,7 +95,7 @@ Email us at [support@safigreens.com](mailto:support@safigreens.com) or use the i
 ---
 
 <p align="center">
-  <img src="docs/assets/comm-pro.png" alt="Safi Greens Community" width="400"/>
+  <img src="assets/comm-pro.png" alt="Safi Greens Community" width="400"/>
 </p>
 
 ---

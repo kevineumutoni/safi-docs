@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/safi-screenshot.png" alt="Green Community Banner" width="600"/>
+  <img src="assets/fq.png" alt="Green Community Banner" width="600"/>
 </p>
 
 # 🤗 Contributing to Safi Greens
