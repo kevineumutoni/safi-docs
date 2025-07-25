@@ -1,4 +1,4 @@
-![Green Community Banner](docs/assets/comm.png)
+![Green Community Banner](assets/comm.png)
 
 # 🍃 Safi Greens Community Code of Conduct
 
@@ -44,7 +44,7 @@ All reports are confidential. We will listen and take action.
 
 ---
 
-![Community Support](docs/assets/comm.png)
+![Community Support](assets/comm.png)
 
 ---
 
