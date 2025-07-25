@@ -1,112 +1,63 @@
-# Safi Greens – Frequently Asked Questions (FAQ)
+<p align="center">
+  <img src="https://www.gainhealth.org/sites/default/files/2025-02/dsc07855.jpg" alt="Fresh Produce FAQ Banner" width="600"/>
+</p>
 
-This FAQ addresses common questions for both Mama Mboga vendors and customers using the Safi Greens platform.
+# ❓ Safi Greens – Frequently Asked Questions (FAQ)
 
----
-
-## General
-
-**Q: What is Safi Greens?**  
-A: Safi Greens is a digital platform that connects fresh produce vendors (Mama Mboga) with urban customers, offering easy online ordering, payments via MPesa, and smart delivery options.
-
-**Q: Who can use Safi Greens?**  
-A: Any Mama Mboga vendor or customer in supported urban areas with basic mobile access can use Safi Greens.
+Find answers to the most common questions from Mama Mboga vendors and customers.
 
 ---
 
-## Getting Started
+## 🧑‍🌾 For Mama Mboga Vendors
 
-**Q: How do I sign up as a Mama Mboga vendor?**  
-A: Open the Safi Greens app, click “Sign Up,” enter your phone number, and follow the instructions to set up your kiosk profile.
+**Q: How do I join Safi Greens?**  
+A: Tap “Sign Up,” enter your details, and create your shop profile. It’s fast and easy!
 
-**Q: How do I sign up as a customer?**  
-A: Customers can sign up the same way by providing their phone number and basic details.
+**Q: How do I add my vegetables and fruits?**  
+A: Go to “My Products,” click **Add New Item**, upload a photo, and enter details.
 
-**Q: Do I need a smartphone?**  
-A: Mama Mboga vendors can use smartphones or basic phones (with help from family/children); customers need a smartphone with internet access for the best experience.
+**Q: How do I get paid?**  
+A: All payments are made securely via MPesa. You’ll see your earnings in your dashboard.
 
----
-
-## Ordering & Payments
-
-**Q: How do I list my products?**  
-A: Vendors log in, go to “My Products,” and use “Add New Item” to list fresh produce.
-
-**Q: How do I place an order?**  
-A: Customers browse available items, add them to cart, and check out using MPesa.
-
-**Q: How does MPesa payment work?**  
-A: At checkout, enter your MPesa phone number. You’ll receive a prompt to confirm payment. Once done, your order is processed.
-
-**Q: Is my payment secure?**  
-A: Yes, all payments are processed through MPesa’s secure API.
+**Q: What should I do if I need help?**  
+A: Use the in-app help button or email [support@safigreens.com](mailto:support@safigreens.com).
 
 ---
 
-## Delivery & Tracking
+## 🛒 For Customers
 
-**Q: How do deliveries work?**  
-A: After you place an order, the vendor prepares the items and coordinates last-mile delivery to your location.
+**Q: How do I order groceries?**  
+A: Sign up, browse your local Mama Mboga shops, add items to your cart, and pay using MPesa.
 
-**Q: Can I track my order?**  
-A: Yes, you can view order status in the “My Orders” section of the app.
+**Q: Can I choose delivery or pick-up?**  
+A: Yes! Select your preferred option during checkout.
 
-**Q: What areas are covered for delivery?**  
-A: Safi Greens currently serves select urban neighborhoods. Please check the app for coverage.
+**Q: How do I know my order status?**  
+A: Check “My Orders” for updates and delivery tracking.
 
----
-
-## Mama Mboga Advisor AI
-
-**Q: What is the Advisor AI Agent?**  
-A: It’s a smart assistant that helps vendors and customers with produce shelf life, storage tips, spoilage detection, and smart shopping advice.
-
-**Q: How do I use the AI Agent?**  
-A: Access it from the app dashboard, type your question (e.g., “How long do tomatoes stay fresh?”), and get instant advice.
+**Q: What if something goes wrong with my order or payment?**  
+A: Contact us through the app or email [support@safigreens.com](mailto:support@safigreens.com).
 
 ---
 
-## Troubleshooting
+## 🌟 General Questions
 
-**Q: I can’t log in, what should I do?**  
-A: Double-check your phone number and try again. If the issue persists, contact support.
+**Q: Is Safi Greens safe to use?**  
+A: Yes! We use secure payment and protect your privacy.
 
-**Q: My payment didn’t go through.**  
-A: Ensure your MPesa account is active and has funds. Retry or contact support if needed.
+**Q: Which areas do you serve?**  
+A: Safi Greens is available in select urban neighborhoods. Check the app for coverage.
 
-**Q: The app isn’t loading.**  
-A: Check your internet connection and try refreshing. If the problem continues, reach out to support.
-
----
-
-## Account & Privacy
-
-**Q: How is my data protected?**  
-A: Safi Greens uses secure authentication, encrypted storage, and follows privacy best practices.
-
-**Q: Can I delete my account?**  
-A: Yes, contact support via the app or email to request account deletion.
+**Q: Can I invite friends and family?**  
+A: Absolutely! The more, the merrier.
 
 ---
 
-## Feedback & Support
+## 📬 Need More Help?
 
-**Q: How do I give feedback or request new features?**  
-A: Use the “Feedback” button in the app or email [support@safigreens.com](mailto:support@safigreens.com).
-
-**Q: Where do I get help?**  
-A: In-app help is available, or email [support@safigreens.com](mailto:support@safigreens.com).
+We’re here for you!  
+Just email [support@safigreens.com](mailto:support@safigreens.com) or use the app’s help button.
 
 ---
 
-## Other Questions
-
-**Q: How do I report a bug or issue?**  
-A: Submit issues via the app or on our [GitHub Issues page](https://github.com/kevineumutoni/safi-docs).
-
-**Q: Where can I find more documentation?**  
-A: Visit our [User Guide](USER_GUIDE.md) and [Technical Guide](TECHNICAL_GUIDE.md).
-
----
-
-_Last updated: July 2025_
+**Safi Greens – Fresh, simple, and community-focused!** 🥬🍅🥕

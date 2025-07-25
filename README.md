@@ -1,177 +1,81 @@
-# safi-docs
+<p align="center">
+  <img src="https://www.gainhealth.org/sites/default/files/2025-02/dsc07855.jpg" alt="Fresh Groceries" width="600"/>
+</p>
 
-# Product Documentation Guide
+# 🥗 Safi Greens
 
-Welcome to the documentation for **[Safi Greens]**. This guide helps both technical and non-technical users find the information they need, quickly and efficiently.
-
----
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [User Guides](#user-guides)
-  - [Non-Technical Users](#non-technical-users)
-  - [Technical Users](#technical-users)
-- [FAQs](#faqs)
-- [Troubleshooting](#troubleshooting)
-- [Release Notes & Versioning](#release-notes--versioning)
-- [Contributing & Updating Docs](#contributing--updating-docs)
-- [Visuals & Resources](#visuals--resources)
-- [Contact & Support](#contact--support)
+Welcome to **Safi Greens** – your easy, affordable, and smart way to buy and sell fresh produce!
 
 ---
 
-## Getting Started
+## 🌱 What is Safi Greens?
 
-**Who is this for?**
-
-Non-technical users: Basic product usage and setup.
-Technical users: Integration, customization, and developer resources.
-
-- **Step-by-step setup instructions**
-- Links to video tutorials and screenshots
-- Quick start checklist
+Safi Greens is an online platform and mobile-friendly app that helps local vegetable vendors (Mama Mbogas) reach more customers, while making it simple for anyone to order fresh, healthy produce from their neighborhood.
 
 ---
 
-## User Guides
-
-### Non-Technical Users
-
-- **Overview**
-- How to sign up and log in
-- Navigating the dashboard
-- Common tasks (with screenshots)
-- How to get help (contact, FAQs)
-
-### Technical Users
-
-- **API Reference**
-- Authentication and security
-- Data integration guides
-- Deployment instructions
-- Troubleshooting advanced issues
-- Sample code snippets
+<p align="center">
+  <img src="docs/assets/pics.png" alt="Groceries Example" width="400"/>
+  <img src="docs/assets/safi-screenshot.png" alt="Groceries Example" width="400"/>
+</p>
 
 ---
 
-## FAQs
+## 👩‍🌾 For Mama Mboga Vendors
 
-> Frequently Asked Questions for both audiences.
-
-- Account management
-- Usage limits
-- Error messages explained
-- Where to find technical documentation
-- [See full FAQ page](docs/FAQ.md)
+- List your fresh vegetables and fruits easily
+- Receive orders directly from local customers
+- Manage orders and track your sales
+- Get paid securely via MPesa
+- Simple, friendly dashboard – no tech skills needed!
 
 ---
 
-## Troubleshooting
+## 🛒 For Customers
 
-- Step-by-step solutions for common problems
-- Links to support and escalation paths
-- Visual error guides (screenshots, videos)
-
----
-
-## Release Notes & Versioning
-
-- Change logs for each release ([see releases](docs/RELEASE_NOTES.md))
-- How to report issues or request features
-- Version compatibility
+- Browse fresh produce from Mama Mbogas near you
+- Order online anytime, from your phone or computer
+- Pay safely with MPesa
+- Enjoy fast, affordable delivery to your doorstep
+- Support your local community!
 
 ---
 
-## Contributing & Updating Docs
+## 🚀 How It Works
 
-- How to suggest edits or new documentation ([see CONTRIBUTING.md](docs/CONTRIBUTING_.md))
-- How to keep documentation up-to-date
-- Version control using GitHub Issues and Pull Requests
-
----
-
-## Visuals & Resources
-
-- Diagrams of product architecture
-- User flows
-- Embedded videos
-- Downloadable assets
+1. **Vendors register** and create their shop in minutes.
+2. **Customers browse** available produce and place orders.
+3. **Vendors prepare orders** and confirm delivery.
+4. **Everyone pays securely** using MPesa.
+5. **Fresh food delivered** quickly and safely!
 
 ---
 
-## Contact & Support
-
-- Support email and chat
-- Links to GitHub Discussions
-- Community forums
+> 💡 **Safi Greens makes shopping and selling vegetables easy, safe, and rewarding for everyone.**
 
 ---
 
-# How to Use GitHub for Documentation
+## 📸 See How It Works
 
-1. **Repository Structure:**
-
-   - `/docs`: All documentation pages (Markdown, images, videos)
-   - `/docs/assets`: Visual assets (screenshots, diagrams)
-   - `/README.md`: Main landing page with TOC and links
-   - `/CONTRIBUTING.md`: How others can help improve docs
-
-2. **Navigation:**
-
-   - Use clear headings and subheadings
-   - Link between documentation pages for easy access
-   - Provide a TOC at the top of each page
-
-3. **Visuals:**
-
-   - Add images: `![Screenshot](docs/assets/)`
-   - Embed diagrams and videos for workflows
-
-4. **Versioning & Updates:**
-
-   - Use GitHub branches for major documentation changes
-   - Tag releases with documentation updates
-   - Keep a changelog in `RELEASE_NOTES.md`
-
-5. **Publishing:**
-   - Use GitHub Pages for public docs:  
-     [How to set up GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
-   - Update documentation regularly via Pull Requests
+<p align="center">
+  <img src="docs/assets/app-screenshots.png" alt="App Screenshot" width="300"/>
+  <img src="docs/assets/dash.png" alt="Dashboard Screenshot" width="300"/>
+</p>
 
 ---
 
-# Example Pages
+## 📖 More Information
 
-- [FAQ](docs/FAQ.md)
-- [Technical Guide](docs/TECHNICAL_GUIDE.md)
-- [User Guide](docs/USER_GUIDE.md)
-- [Release Notes](docs/RELEASE_NOTES.md)
+- [User Guide](docs/USER_GUIDE.md) – Step-by-step instructions for vendors and customers
+- [FAQ](docs/FAQ.md) – Common questions and answers
 
 ---
 
-> **Tip:**  
-> Always keep your documentation clear, visual, and easy to navigate. Use headings, lists, and links generously.
+## 📬 Need Help?
+
+Questions or feedback?  
+Email us at [support@safigreens.com](mailto:support@safigreens.com)
 
 ---
 
-## Next Steps
-
-- [Set up your repository structure](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-- [Write your first documentation page](https://docs.github.com/en/github/writing-on-github)
-- [Enable GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
-- [Invite contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
-
----
-
-## Sample Visual
-
-![Product Workflow Diagram](docs/assets/dashboards.png)
-
----
-
-## Additional Resources
-
-- [GitHub Docs](https://docs.github.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub Pages Tutorial](https://pages.github.com/)
+**Let’s keep our communities healthy and thriving – together!** 🚚🥬

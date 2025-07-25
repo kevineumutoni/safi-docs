@@ -1,54 +1,55 @@
-# Safi Greens – Code of Conduct
+<p align="center">
+  <img src="https://via.placeholder.com/800x120/003A2A/ffffff?text=Safi+Greens+Community" alt="Green Community Banner" width="600"/>
+</p>
 
-We are committed to providing a welcoming, inclusive, and respectful community for all contributors, users, and stakeholders of Safi Greens.
+# 🍃 Safi Greens Community Code of Conduct
 
----
-
-## Our Pledge
-
-In the interest of fostering an open and welcoming environment, we pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
----
-
-## Our Standards
-
-Examples of behavior that contributes to a positive environment include:
-
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
-
-Examples of unacceptable behavior:
-
-- The use of sexualized language or imagery
-- Personal attacks, insults, or derogatory comments
-- Public or private harassment
-- Publishing others’ private information without explicit permission
-- Any other conduct that could reasonably be considered inappropriate
+Welcome to Safi Greens!  
+We want our space to be safe, friendly, and supportive for everyone—vendors and customers alike.
 
 ---
 
-## Enforcement
+## 🤝 Our Commitment
 
-- Project maintainers are responsible for clarifying and enforcing this code of conduct.
-- Violations may result in warnings, temporary bans, or permanent removal from the community.
-
----
-
-## Reporting Issues
-
-If you experience or witness unacceptable behavior, please report it by emailing [support@safigreens.com](mailto:support@safigreens.com) or via GitHub Issues (marked as “private”).
-
-All complaints will be reviewed and investigated promptly and fairly.
+We promise to treat everyone with respect.  
+We welcome people of all backgrounds, and we do not tolerate discrimination, harassment, or rude behavior.
 
 ---
 
-## Attribution
+## 🌱 What We Expect
 
-This code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
+- Be kind and helpful
+- Use polite language
+- Respect people’s privacy
+- Support each other and our community
+- Help make Safi Greens better for everyone
 
 ---
 
-**Thank you for helping us keep Safi Greens welcoming and inclusive.**
+## 🚫 Not Allowed
+
+- Bullying or harassment
+- Disrespectful or offensive language
+- Sharing private information without permission
+- Any form of discrimination
+
+---
+
+## 📣 If You Need Help
+
+If you ever feel uncomfortable, or see something wrong, please contact us:
+
+- **Email:** [support@safigreens.com](mailto:support@safigreens.com)
+- **In-App Help:** Use the help button in the app
+
+All reports are confidential. We will listen and take action.
+
+---
+
+<p align="center">
+  <img src="docs/assets/comm-pro.png" alt="Community Support" width="300"/>
+</p>
+
+---
+
+**Thank you for helping us keep Safi Greens welcoming and positive for everyone!** 🌍🫶
