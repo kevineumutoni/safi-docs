@@ -95,7 +95,7 @@ Email us at [support@safigreens.com](mailto:support@safigreens.com) or use the i
 ---
 
 <p align="center">
-  <img src="assets/comm-pro.png" alt="Safi Greens Community" width="400"/>
+  <img src="assets/homed.png" alt="Safi Greens Community" width="400"/>
 </p>
 
 ---
