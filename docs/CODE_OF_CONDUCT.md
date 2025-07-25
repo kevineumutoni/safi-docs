@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x120/003A2A/ffffff?text=Safi+Greens+Community" alt="Green Community Banner" width="600"/>
+  <img src="docs/assets/comm-pro.png" alt="Green Community Banner" width="600"/>
 </p>
 
 # 🍃 Safi Greens Community Code of Conduct
