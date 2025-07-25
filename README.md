@@ -125,7 +125,7 @@ Technical users: Integration, customization, and developer resources.
 
 3. **Visuals:**
 
-   - Add images: `![Screenshot](docs/assets/app-screenshots.png)`
+   - Add images: `![Screenshot](docs/assets/)`
    - Embed diagrams and videos for workflows
 
 4. **Versioning & Updates:**
