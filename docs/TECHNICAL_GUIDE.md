@@ -135,7 +135,7 @@ Reference: [MPesa Daraja API Docs](https://developer.safaricom.co.ke/daraja/apis
 - Write clear commit messages and Pull Request descriptions
 - Follow existing coding styles (see `.eslintrc`, `.prettierrc`)
 - Add tests for new features
-- See [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+- See [CONTRIBUTING.md](docs/CONTRIBUTING_.md)
 
 ---
 

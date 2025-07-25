@@ -85,7 +85,7 @@ Technical users: Integration, customization, and developer resources.
 
 ## Contributing & Updating Docs
 
-- How to suggest edits or new documentation ([see CONTRIBUTING.md](docs/CONTRIBUTING.md))
+- How to suggest edits or new documentation ([see CONTRIBUTING.md](docs/CONTRIBUTING_.md))
 - How to keep documentation up-to-date
 - Version control using GitHub Issues and Pull Requests
 
@@ -125,7 +125,7 @@ Technical users: Integration, customization, and developer resources.
 
 3. **Visuals:**
 
-   - Add images: `![Screenshot](docs/assets/screenshot1.png)`
+   - Add images: `![Screenshot](docs/assets/app-screenshots.png)`
    - Embed diagrams and videos for workflows
 
 4. **Versioning & Updates:**
@@ -175,5 +175,3 @@ Technical users: Integration, customization, and developer resources.
 - [GitHub Docs](https://docs.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Pages Tutorial](https://pages.github.com/)
-
----
