@@ -16,6 +16,9 @@ This guide will help Mama Mboga vendors and customers get the most out of our pl
 - Click **Sign Up** and fill in your name and phone number.
 - Choose a password and confirm registration.
 - Add your shop details (location, produce type).
+<p align="center">
+  <img src="assets/oinn.png" alt="Vendor Add Product" width="350"/>
+</p>
 
 ### 2. List Your Fresh Produce
 
