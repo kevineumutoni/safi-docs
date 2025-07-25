@@ -1,4 +1,4 @@
-![Green Community Banner](assets/comm.png)
+![Fresh Groceries](assets/safi-screenshot.png)
 
 # 🍃 Safi Greens Community Code of Conduct
 
@@ -45,3 +45,4 @@ All reports are confidential. We will listen and take action.
 ---
 
 **Thank you for helping us keep Safi Greens welcoming and positive for everyone!** 🌍🫶
+y

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fq.png" alt="Green Community Banner" width="600"/>
+  <img src="assets/comm.png" alt="Green Community Banner" width="600"/>
 </p>
 
 # 🤗 Contributing to Safi Greens
@@ -26,8 +26,6 @@ Your feedback helps us make the platform better for everyone.
 
 - **Email:** [support@safigreens.com](mailto:support@safigreens.com)
 - **App Help Button:** Use the help button in our app to send feedback
-
----
 
 ---
 

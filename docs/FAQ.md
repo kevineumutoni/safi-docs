@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gainhealth.org/sites/default/files/2025-02/dsc07855.jpg" alt="Fresh Produce FAQ Banner" width="600"/>
+  <img src="assets/fq.png" alt="Fresh Produce FAQ Banner" width="600"/>
 </p>
 
 # ❓ Safi Greens – Frequently Asked Questions (FAQ)
