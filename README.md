@@ -14,10 +14,8 @@ Safi Greens is an online platform and mobile-friendly app that helps local veget
 
 ---
 
-<p align="center">
-  <img src="assets/pics.png" alt="Groceries Example" width="400"/>
-  <img src="assets/safi-screenshot.png" alt="Groceries Example" width="400"/>
-</p>
+![Groceries Example](docs/assets/pics.png)
+![Groceries Example](docs/assets/safi-screenshot.png)
 
 ---
 
